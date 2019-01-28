@@ -1,0 +1,65 @@
+2.1) Biodiversity Preservation 
+
+environmental conservation; biosafety;
+protection of traditional and
+marginalized peoples; conservation of
+the material, aesthetic and spiritual
+wellbeing; respect to the integrity of
+the planet’s life support systems
+
+2.2) Food Security 
+
+green economy, agriculture
+productivity, feed world population,
+food commodities; agribusiness byproducts
+(seeds, fertilizers and other
+agro-chemical products and services);
+global markets; global retailing; trade;
+private corporations
+
+2.3) Ecological Agriculture 
+
+Agroecology; feminism; food
+sovereignty; organic food; animal and
+human health
+
+# meio_ambiente = list(['conservação ambienta',
+#                      'biossegurança',
+#                      'proteção dos meios tradicionais',
+#                      'povos marginalizados',
+#                      'conservação do bem-estar',
+#                      'sistemas de suporte à vida',
+#                      'feminismo', 
+#                      'comida orgânica', 
+#                      'saúde humana', 
+#                      'saúde animal'])
+
+meio_ambiente = list(['conservação',
+                      'biossegurança',
+                      'proteção',
+                      'marginalizados',
+                      'bem-estar',
+                      'feminismo', 
+                      'orgânico', 
+                      'saúde'])
+# seguranca_alimentar = list(['economia verde',
+#                             'produtividade',
+#                             'população mundial',
+#                             'commodities',
+#                             'sementes', 
+#                             'fertilizantes',
+#                             'mercados globais',
+#                             'varejo global',
+#                             'comércio',
+#                             'corporações privadas'])
+
+seguranca_alimentar = list(['economia',
+                            'produtividade',
+                            'mundial',
+                            'commodities',
+                            'sementes', 
+                            'fertilizantes',
+                            'mercados',
+                            'varejo',
+                            'comércio',
+                            'corporações'])
